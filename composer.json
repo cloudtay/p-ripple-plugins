@@ -14,7 +14,7 @@
   ],
   "require": {
     "cclilshy/p-ripple": "dev-main",
-    "cclilshy/illuminate-database-p-ripple": ">=1.0",
+    "cclilshy/illuminate-database-p-ripple": "dev-main",
     "illuminate/view": "^10.31"
   },
   "version": "dev-main"
